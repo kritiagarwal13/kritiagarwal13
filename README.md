@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 **About Me:**
+
 • 👩🏻‍💻 Self taught iOS App Developer
 
 • 🌱 Currently learning SwiftUI
