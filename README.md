@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an iOS enthusiast. 
+I am an iOS enthusiast based in Dublin, Ireland. 
 
 **About Me 🤷🏻‍♀️**
 
