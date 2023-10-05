@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am an iOS enthusiast. 
 
+**About Me 🤷🏻‍♀️**
+
 • 👩🏻‍💻 Self taught iOS App Developer
 
 • 🌱 Currently learning SwiftUI
