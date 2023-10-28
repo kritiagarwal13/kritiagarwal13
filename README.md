@@ -13,13 +13,21 @@ I am an iOS enthusiast based in Dublin, Ireland.
 • 📖 Love reading and story-telling
 
 • Skills:- 
-    ~ Git
-    ~ Firebase
-    ~ Swift/SwiftUI
-    ~ CI/CD
-    ~ MVC/MVVM
-    ~ Coredata
-    ~ RestAPI
-    ~ SPM
-
+    
+        - Git
+    
+        - Firebase
+    
+        - Swift/SwiftUI
+    
+        - CI/CD
+    
+        - MVC/MVVM
+    
+        - Coredata
+    
+        - RestAPI
+    
+        - SPM/Cocoapods
+    
 ps:- wanna work on a crazy idea together? Ping me! 🙂
