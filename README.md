@@ -29,5 +29,9 @@ I am an iOS enthusiast based in Dublin, Ireland.
         - RestAPI
     
         - SPM/Cocoapods
+
+        - Apple Pay/In-App Purchase
+
+        - Realm
     
 ps:- wanna work on a crazy idea together? Ping me! 🙂
