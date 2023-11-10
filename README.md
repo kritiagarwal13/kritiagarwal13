@@ -24,7 +24,7 @@ I am an iOS enthusiast based in Dublin, Ireland.
     
         - MVC/MVVM
     
-        - Coredata
+        - Coredata/Realm
     
         - RestAPI
     
@@ -32,6 +32,6 @@ I am an iOS enthusiast based in Dublin, Ireland.
 
         - Apple Pay/In-App Purchase
 
-        - Realm
+        - HealthKit
     
 ps:- wanna work on a crazy idea together? Ping me! 🙂
