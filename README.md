@@ -44,6 +44,7 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
         - Dependency Management:
             * Swift Package Manager (SPM)
             * CocoaPods
+            * Node Package Manager (NPM)
             
     
 ps:- wanna work on a crazy idea together? Ping me! 🙂
