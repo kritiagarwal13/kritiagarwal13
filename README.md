@@ -1,37 +1,49 @@
 ### Hi there 👋
-I am an iOS enthusiast based in Dublin, Ireland. 
+I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong backgroung in iOS development. 
 
 
 **About Me 🤷🏻‍♀️**
 
-• 👩🏻‍💻 Self taught iOS App Developer
+• 👩🏻‍💻 Currently on the exciting journey of becoming a Full Stack Developer.
 
-• 🌱 Currently learning SwiftUI
+• 🌱 Elevating My Software Development Skills with MERN Stack 🚀
 
-• 🔭 Getting started with Open Source
+• 🔭 Exploring the fascinating realm of Open Source projects.
 
 • 📖 Love reading and story-telling
 
 • Skills:- 
     
-        - Git
-    
-        - Firebase
-    
-        - Swift/SwiftUI
-    
-        - CI/CD
-    
-        - MVC/MVVM
-    
-        - Coredata/Realm
-    
-        - RestAPI
-    
-        - SPM/Cocoapods
+        - Version Control:
+            * Git
 
-        - Apple Pay/In-App Purchase
+        - iOS Development:
+            * Swift/SwiftUI
 
-        - HealthKit
+         - In-App Functionality:
+            * Apple Pay/In-App Purchase
+            * HealthKit
+            * AVFoundation Kit
+            * MapKit with Maps/Google Maps
+            * UserNotifications/Push Notifications
+            * Firebase
+            * Alamofire/NSURLSession and URLSession
+            * CoreData/Realm
+            * Core Animation
+            * Social SignIns
+
+        - Full Stack Technologies:
+            * Node.js
+            * Express.js
+            * React
+            * MongoDB
+
+        - Architectural Patterns:
+            * MVC/MVVM
+
+        - Dependency Management:
+            * Swift Package Manager (SPM)
+            * CocoaPods
+            
     
 ps:- wanna work on a crazy idea together? Ping me! 🙂
