@@ -6,7 +6,7 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
 
 • 👩🏻‍💻 Currently on the exciting journey of becoming a Full Stack Developer.
 
-• 🌱 Elevating My Software Development Skills with MERN Stack 🚀
+• 🌱 Elevating my software development skills with MERN Stack 🚀
 
 • 🔭 Exploring the fascinating realm of Open Source projects.
 
