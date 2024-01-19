@@ -37,6 +37,8 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
             * Express.js
             * React
             * MongoDB
+            * Tailwind
+            * Next.js
 
         - Architectural Patterns:
             * MVC/MVVM
