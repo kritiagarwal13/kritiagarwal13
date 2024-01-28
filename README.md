@@ -49,4 +49,4 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
             * Node Package Manager (NPM)
             
     
-ps:- wanna work on a crazy idea together? Ping me! 🙂
+ps:- wanna work on a cool idea together? Ping me! 🙂
