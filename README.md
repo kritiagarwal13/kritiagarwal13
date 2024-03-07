@@ -41,6 +41,7 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
             * MongoDB
             * Tailwind, CSS
             * Next.js
+            * TypeScript
 
         - Architectural Patterns:
             * MVC/MVVM
