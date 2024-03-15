@@ -19,10 +19,23 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
         - Version Control:
             * Git
 
-        - iOS Development:
+        - Full Stack Technologies:
+            * MongoDB
+            * Express.js
+            * React
+            * Node.js
+            * Tailwind, CSS
+            * Next.js
+            * TypeScript
+            * Supabase
+            * PostgreSQL
+            * Vercel
+            * Drizzle
+
+         - iOS Development:
             * Swift/SwiftUI
 
-         - In-App Functionality:
+         - iOS In-App Functionality:
             * Apple Pay/In-App Purchase
             * HealthKit
             * AVFoundation Kit
@@ -33,18 +46,6 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
             * CoreData/Realm
             * Core Animation
             * Social SignIns
-
-        - Full Stack Technologies:
-            * Node.js
-            * Express.js
-            * React
-            * MongoDB
-            * Tailwind, CSS
-            * Next.js
-            * TypeScript
-
-        - Architectural Patterns:
-            * MVC/MVVM
 
         - Dependency Management:
             * Swift Package Manager (SPM)
