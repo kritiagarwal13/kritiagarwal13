@@ -15,9 +15,6 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
 • 📖 Love reading and story-telling
 
 • Skills:- 
-    
-        - Version Control:
-            * Git
 
         - Full Stack Technologies:
             * MongoDB
