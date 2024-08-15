@@ -23,6 +23,7 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
             * Node.js
             * Tailwind, CSS
             * Next.js
+            * Nest.js
             * TypeScript
             * Supabase
             * PostgreSQL
