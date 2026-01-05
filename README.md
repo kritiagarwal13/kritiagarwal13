@@ -10,8 +10,6 @@ I'm an aspiring Full Stack Developer based in Dublin, Ireland, with a strong bac
 
 • 🔭 Exploring the fascinating realm of Open Source projects
 
-• 🌱 Diving deep into SwiftUI and Unit Testing
-
 • 📖 Love reading and story-telling
 
 • Skills:- 
